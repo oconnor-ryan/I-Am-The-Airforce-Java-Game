@@ -29,7 +29,7 @@ learning that skill.
 
 
 
-<video title="Boss Fight from 'I Am The Airforce!' Game" src="https://user-images.githubusercontent.com/128189530/226136848-0ec7d470-d29e-4291-aab0-7b4684f5d4c2.mp4" controls="controls" style="max-width: 750px;"</video>
+<video title="Boss Fight from 'I Am The Airforce!' Game" src="https://user-images.githubusercontent.com/128189530/226136848-0ec7d470-d29e-4291-aab0-7b4684f5d4c2.mp4" controls="controls" style="max-width: 750px;"></video>
 
 
 
