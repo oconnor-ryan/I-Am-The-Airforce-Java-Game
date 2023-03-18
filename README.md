@@ -24,10 +24,14 @@ skill, so it's better to make those mistakes early on rather than never
 learning that skill.
 
 ## Previews from Game:
-![Gameplay From 'I Am The Airforce!' Game](https://github.com/oconnor-ryan/I-Am-The-Airforce-Java-Game/tree/main/media/GameplayGIF.gif)
 
-<video title="Boss Fight From Game" src="https://github.com/oconnor-ryan/I-Am-The-Airforce-Java-Game/tree/main/media/BossFightFromGame.mp4" controls="controls" style="max-width: 730px;" alt>
-</video>
+![Gameplay from 'I Am The Airforce!' Game](https://user-images.githubusercontent.com/128189530/226136822-e7661dd5-2360-4fa7-b256-7f60f1dfb390.gif)
+
+
+
+
+!(Boss Fight from 'I Am The Airforce!' Game](https://user-images.githubusercontent.com/128189530/226136848-0ec7d470-d29e-4291-aab0-7b4684f5d4c2.mp4)
+
 
 
 ## Issues
